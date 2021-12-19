@@ -1,6 +1,12 @@
+/*
+ * @Author: chenxin
+ * @Date: 2021-12-19 16:19:36
+ * @LastEditTime: 2021-12-19 16:22:43
+ * @LastEditors: chenxin
+ * @Description: Description
+ */
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
