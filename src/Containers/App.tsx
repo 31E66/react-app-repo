@@ -1,6 +1,8 @@
+import styles from './app.module.less';   
+
 function App() {
   return (
-    <div className="App">
+    <div className={styles.app}>
       app
     </div>
   );
